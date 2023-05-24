@@ -14,5 +14,6 @@ function welcome() {
 }
 
 function questionnaire() {
-  // write the code for your questionnaire here
+  let name = prompt('whats your name?')
+  alert('We want to know if you like programming!')
 }
