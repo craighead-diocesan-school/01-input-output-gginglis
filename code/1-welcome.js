@@ -14,6 +14,9 @@ function welcome() {
 }
 
 function questionnaire() {
-  let name = prompt('whats your name?')
-  alert('We want to know if you like programming!')
+  let breakfast = prompt('what did you have for breakfast?')
+  alert('noone asked')
+
+  let colour = prompt('whats your favourite colour?')
+  alert('great')
 }

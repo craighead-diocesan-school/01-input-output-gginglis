@@ -3,9 +3,9 @@
 // ####################################
 
 function greeting() {
-  let username = prompt("messi or ronaldo?")
+  let goat = prompt("messi or ronaldo?")
 
-  alert('facts ' + username + ' is fosure better')
+  alert('facts ' + goat + ' is fosure better')
 }
 
 function joke() {

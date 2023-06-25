@@ -11,9 +11,18 @@ function maoriMihi() {
   let name = prompt()
   // more questions and answers here
 
+  let mountain = prompt('What is your mountain?')
+
+  let river = prompt('What is your river/ocean?')
+
+  let hometown = prompt('What is your hometown?')
+
   alert('Your mihi:')
   // more outputs here
 
+  alert('Ko ' + mountain + ' tōku maunga,')
+  alert('Ko ' + river + ' tōku awa,')
+  alert('Ko ' + hometown + ' au,')
   alert('Ko ' + name + ' tōku ingoa,')
   alert('Tēnā koutou,')
   alert('Tēnā koutou,')
