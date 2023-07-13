@@ -14,9 +14,9 @@ function welcome() {
 }
 
 function questionnaire() {
-  let breakfast = prompt('what did you have for breakfast?')
+  prompt('what did you have for breakfast?')
   alert('noone asked')
 
-  let colour = prompt('whats your favourite colour?')
+  prompt('whats your favourite colour?')
   alert('great')
 }
